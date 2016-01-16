@@ -2,4 +2,4 @@
 
 ## Project involves making a Live/Shared Editor
 
-![Alt text](/Users/eyuelabebe/Desktop/TextCircle.png raw=true)
+![Alt text](./TextCircle.png?raw=true)
